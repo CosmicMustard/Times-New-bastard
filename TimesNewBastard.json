@@ -1,0 +1,14 @@
+{
+    "spec": 1,
+    "name": "Times New Bastard",
+    "previewText": "A modern twist on a classic serif typeface.",
+    "main": {
+        "ggsans-Bold": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-Bold.otf",
+        "ggsans-BoldItalic": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-BoldItalic.otf",
+        "ggsans-Normal": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-Regular.otf",
+        "ggsans-NormalItalic": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-Italic.otf",
+        "NotoSans-Bold": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-Bold.otf",
+        "NotoSans-Normal": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-Regular.otf",
+        "NotoSans-NormalItalic": "https://github.com/CosmicMustard/Times-New-bastard/raw/refs/heads/main/TimesNewBastard-Italic.otf"
+    }
+}
